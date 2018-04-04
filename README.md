@@ -53,3 +53,5 @@ After install, you can use this [android application](https://play.google.com/ap
 
 ## Contributions:
 Any contribution to the development is highly welcome. The best possibility is to open a pull request on GitHub.
+
+https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c
